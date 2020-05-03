@@ -8,4 +8,4 @@ Each simulation is given in the form of a source file directory, and a build dir
 
 The primary simulations conducted consist of preliminary Geant4 simulations, detailed detector construction via importation of CAD models, coincidence simulations, and electron backscattering simulations. More information is contained in the respective directories and code comments.
 
-Note that the source file names come from the fact that these simulations were built using the basic code structures available in the Geant4 examples.
+Note that the source file names come from the fact that these simulations were built using the basic code structures available in the Geant4 examples as a starting point.
