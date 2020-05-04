@@ -8,4 +8,4 @@ Each simulation is given in the form of a source file directory, and a build dir
 
 Note that the source file names come from the fact that these simulations were built using the basic code structures available in the Geant4 examples as a starting point. Original Geant4 license and disclaimer headers are kept in the source code to illustrate this.
 
-To run the simulations, the directories must be placed alongside an installation of Geant4. Running the program "exampleB1" in the build directory launches the simulation.
+To run the simulations, the directories must be placed alongside an installation of Geant4. Running the program "exampleB1" in the build directory launches the simulation. Primary source files are in the src/ directory within the non-build directory.
